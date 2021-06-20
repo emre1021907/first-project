@@ -8,3 +8,4 @@ print("new file has been added")
 # git checkout -b feature-emre  --> creates a branch
 # git checkout branch name --> switches to the branch
 # git branch -d branchname  --> deletes the branch
+# git rm dosya adı --> dosyayı github'tan siler.
