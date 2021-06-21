@@ -9,3 +9,4 @@ print("new file has been added")
 # git checkout branch name --> switches to the branch
 # git branch -d branchname  --> deletes the branch
 # git rm dosya adı --> dosyayı github'tan siler.
+# git checkout hashname --> hashname git log'tan gelen hash değeri
